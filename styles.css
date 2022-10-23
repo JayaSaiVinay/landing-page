@@ -234,3 +234,16 @@ button:active{
   background: rgb(187, 207, 243);
   border: 2px solid rgb(138, 172, 237);
 }
+
+/* FOOTER */
+.footer{
+  width: auto;
+  height: 70px;
+  background: #1F2937;
+}
+.footer p{
+  text-align: center;
+  color: #FEFAF8;
+  padding-top: 25px;
+}
+
