@@ -74,6 +74,7 @@ a:active{
   padding-left: 150px;
   width: 550px;
   margin-top: -40px;
+  margin-right: 20px;
 }
 
 .bottom-container button{
@@ -105,6 +106,7 @@ button:active{
   width: 400px;
   height: 250px;
   border-radius: 25px;
+  margin-right: 50px;
 }
 
 
@@ -160,7 +162,8 @@ button:active{
   color: #1F2937;
   width: 600px;
   text-align: center;
-  padding-left: 350px;
+  margin-left: auto;
+  margin-right: auto;
   padding-top: 70px;
   font-style: italic;
 }
@@ -182,7 +185,8 @@ button:active{
   width: 750px;
   height: 110px;
   margin: 70px;
-  margin-left: 250px;
+  margin-left: auto;
+  margin-right: auto;
   border-radius: 15px;
 }
 
